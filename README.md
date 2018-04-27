@@ -13,4 +13,4 @@ The folder contains:
 >> Reference:   
 >> "A nonlinear spectral method for core-periphery detection in networks", (submitted)   
 >> F. Tudisco (http://personal.strath.ac.uk/f.tudisco), and    
->> Desmond J. Higham (http://personal.strath.ac.uk/d.j.higham/)  
+>> D. J. Higham (http://personal.strath.ac.uk/d.j.higham/)  
