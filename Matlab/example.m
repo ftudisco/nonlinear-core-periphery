@@ -5,7 +5,7 @@ addpath('functions');
 
 %%% Load Internet2006 dataset
 dataset_name =  'internet2006-autonomous_systems(as-22july06)';
-datafilename = sprintf('./Datasets/%s',dataset_name);
+datafilename = sprintf('../Datasets/%s',dataset_name);
 load(datafilename);
 
 %%% Reduce to largest connected component of the network
