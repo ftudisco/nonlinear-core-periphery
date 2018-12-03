@@ -2,12 +2,8 @@
 
 **This repository hosts the code and some example data for the following paper:**
 
-A nonlinear spectral method for core-periphery detection in networks
-
-[Detecting Core-Periphery Structure in Spatial Networks](http://personal.strath.ac.uk/f.tudisco/publication/nonlinear_core-periphery/)
-
-by [Francesco Tudisco](http://personal.strath.ac.uk/f.tudisco/) and [Desmond J. Higham](http://personal.strath.ac.uk/d.j.higham/)
-
+[A nonlinear spectral method for core-periphery detection in networks](http://personal.strath.ac.uk/f.tudisco/publication/nonlinear_core-periphery/)   
+by [Francesco Tudisco](http://personal.strath.ac.uk/f.tudisco/) and [Desmond J. Higham](http://personal.strath.ac.uk/d.j.higham/)   
 [arXiv:1808.06544](https://arxiv.org/abs/1804.09820), 2018.
 
 
