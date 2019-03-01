@@ -16,13 +16,13 @@ In this repository you can find Julia and Matlab code that implement our Nonline
 
 If you use our method for your research, please cite our work as follows
 ```
-@article{tudisco2018core,
+@article{TH2018_NSM,
   title = {A nonlinear spectral method for core-periphery detection in networks},
   author = {Tudisco, Francesco and Higham, Desmond J.},
   journal = {arXiv:1804.09820}
   year = {2018}
 }
-@article{tudisco2018core,
+@article{TH2019_FAST,
   title = {A fast and robust kernel optimization method for core--periphery detection in directed and weighted graphs},
   author = {Tudisco, Francesco and Higham, Desmond J.},
   journal = {Applied Network Science, special issue on Machine Learning with Graphs}
